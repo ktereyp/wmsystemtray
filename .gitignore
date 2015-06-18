@@ -1,0 +1,9 @@
+*.o
+*.a
+/config.status
+/config.h
+/config.log
+Makefile
+/.deps
+/stamp-h1
+/wmsystemtray
